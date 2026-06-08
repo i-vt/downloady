@@ -1,6 +1,8 @@
 # downloady
 Command-line file download helper, generating scripts for copy/pasting :)
 
+> Migrating to the repo [InterestingSnippets]([url](https://github.com/i-vt/InterestingSnippets)) as "Python/DownloadHelperCLI.py"
+
 ## Demo:
 
 Ex.: I have 3 files I need to do remote administration on a several servers; but SSH, SMB, nor drag/drop RDP is unavailable. I know that httpclient file transfer via powershell works, but I am too lazy to copy-paste stuff over and over again - so I want to do it in 1 go, now I can.
